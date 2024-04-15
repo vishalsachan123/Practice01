@@ -9,3 +9,6 @@ words = ["program", "programs", "programmer", "programming", "programmers"]
 
 for w in words:
 	print(w, " : ", ps.stem(w))
+
+
+//vyshal added something
